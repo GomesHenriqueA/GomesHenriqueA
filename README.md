@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Henrique
-- 👀 I’m interested in Java, C# and JavaScript.
-- 🌱 I’m currently working with .NET, C# and SQL.
+- 🌱 I’m currently working with .NET, C#, Java and SQL.
 - 📫 How to reach me? E-Mail: henriqueg.assis@gmail.com
 
 <!---
